@@ -15,4 +15,4 @@ y
 ```
 
 Once done, you can use and edit the source code however you want.
-Emjoy!
+Enjoy!
