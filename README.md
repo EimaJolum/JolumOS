@@ -6,7 +6,8 @@ To use JolumOS, you'll first need the prerequisites:
 
 - Have TurboWarp, which you can get from turbowarp.org
 - Have 7zip, which you can get from www.7-zip.org
-- Have Git installed, which you can get from git-scm.com
+- Have Git, which you can get from git-scm.com
+- Have added 7zip to PATH ("C:/Program Files/7-Zip" should do)
 
 Next, you'll run this one-liner:
 ```batch
