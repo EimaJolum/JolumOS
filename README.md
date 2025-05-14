@@ -11,7 +11,7 @@ To use JolumOS, you'll first need the prerequisites:
 
 Next, you'll run this one-liner:
 ```batch
-git clone https://github.com/EimaJolum/JolumOS & cd JolumOS/assets & move * .. & cd.. & del assets & del README.md & 7z a -tzip JolumOS.sb3 * & JolumOS.sb3
+git clone https://github.com/EimaJolum/JolumOS & cd JolumOS/assets & move * .. & cd.. & rd assets & del README.md & 7z a -tzip JolumOS.sb3 * & JolumOS.sb3
 y
 ```
 
